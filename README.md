@@ -1,4 +1,4 @@
-# -AI-BASED-RECOMMENDATION-SYSTEM
+# AI-BASED-RECOMMENDATION-SYSTEM
 
 COMPANY : CODETECH IT SOLUTIONS
 
@@ -25,4 +25,7 @@ Provides personalized recommendations for each user.
 Can be adapted for movies, books, products, or any content type.
 
 Runs directly in Java, making it easy to integrate into larger systems.
+
+#output:
+<img width="1019" height="667" alt="Image" src="https://github.com/user-attachments/assets/d5948ec7-d709-4f80-bef3-6b86aca7d5f3" />
 
